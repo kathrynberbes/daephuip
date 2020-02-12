@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyaibahwi.lzrain.com/sitemap.xml
